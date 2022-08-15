@@ -2,7 +2,6 @@
 #88
 https://leetcode.com/problems/merge-sorted-array/
 */
-
 // This problem is solved using Insertion Sort Technique.......
 
 class Solution {
