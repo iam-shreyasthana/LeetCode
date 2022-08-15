@@ -40,21 +40,7 @@ class Solution{
         }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 /*
-
-
 class Solution {
 public:
     string longestPalindrome(string s) {
