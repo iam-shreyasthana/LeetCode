@@ -3,12 +3,7 @@
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 */
 
-#include<bits/stdc++.h>
-using namespace std;
-
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
+int maxProfit(vector<int>& prices) {
         int m1 = prices[0];
         int result = 0;
         
@@ -18,5 +13,4 @@ public:
         }
         
         return result;
-    }
-};
+}
