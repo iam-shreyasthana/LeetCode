@@ -1,6 +1,6 @@
 /*
 2404. Most Frequent Even Element
-https://leetcode.com/contest/weekly-contest-310/problems/most-frequent-even-element/
+https://leetcode.com/problems/most-frequent-even-element/
 
 Given an integer array nums, return the most frequent even element.
 
